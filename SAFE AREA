@@ -1,0 +1,12 @@
+To Save your app or a specific widget from getting cut due to the modern adaptations of the screens like notches,etc..
+
+How?
+Just wrap what u want to be safe and Voila!!
+
+Tip: For ur whole app to be safe wrap the scaffold :-)
+
+Properties:
+top,bottom,left,right which are all boolean and will let you specify which side u care about (if u r specific).
+
+Example code:
+Just excuse it for this one ,it's too easy.
